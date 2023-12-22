@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.index {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#mac-n-cheese {
+    height: auto;
+    width: 50%;
+}
